@@ -142,3 +142,7 @@ video/*
 !video/.gitkeep
 pic/*
 !pic/.gitkeep
+chi_sim.traineddata
+eng.traineddata
+output.json
+.DS_Store
